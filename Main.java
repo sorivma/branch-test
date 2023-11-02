@@ -7,6 +7,7 @@ public class Main {
 
     public static void doStuff() {
         System.out.println("doin stuff");
+        System.out.println("argh");
     }
 
     public static void doAnotherStuff() {
